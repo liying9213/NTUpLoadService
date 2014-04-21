@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1442F789-63F5-418B-A6DF-D09B2E464AC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NTUpLoadService</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1754165F-6915-44CB-894A-9CDFF2C1B498</key>
+		<string>https://github.com/liying9213/NTUpLoadService.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NTUpLoadService.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1754165F-6915-44CB-894A-9CDFF2C1B498</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liying9213/NTUpLoadService.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1754165F-6915-44CB-894A-9CDFF2C1B498</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1754165F-6915-44CB-894A-9CDFF2C1B498</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NTUpLoadService</string>
+		</dict>
+	</array>
+</dict>
+</plist>

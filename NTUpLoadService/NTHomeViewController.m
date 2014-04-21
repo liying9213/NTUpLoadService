@@ -36,13 +36,13 @@
     _tableview.rowHeight=60;
     [self.view addSubview:_tableview];
     
+    
     UIButton* uploadButton = [UIButton buttonWithType:UIButtonTypeCustom];
     uploadButton.backgroundColor=[UIColor lightGrayColor];
     uploadButton.frame=CGRectMake(0,self.view.frame.size.height-44, 320, 44);
     [uploadButton setImage:[UIImage imageNamed:@"upload.png"] forState:UIControlStateNormal];
     [uploadButton addTarget:self action:@selector(startUpload:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:uploadButton];
-    
     
     // Do any additional setup after loading the view.
 }
@@ -115,6 +115,10 @@
     [self presentViewController:view animated:YES completion:nil];
 }
 
-
+#pragma mark - dealloc -
+-(void)dealloc
+{
+    NSLog(@"===dealloc==%@",self.class);
+}
 
 @end
